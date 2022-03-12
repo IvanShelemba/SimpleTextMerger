@@ -6,7 +6,7 @@ using SimpleTextMerger.Core.Selectors;
 using SimpleTextMerger.Core.TokenProviders;
 using SimpleTextMerger.Tests.Objects;
 
-namespace SimpleTextMerger.Tests.Merger
+namespace SimpleTextMerger.Tests.Tests
 {
     internal class DefaultTextMerging
     {
